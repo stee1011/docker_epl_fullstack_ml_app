@@ -1,6 +1,4 @@
 
-Got it! Here’s the updated `README.md` snippet with Docker containerization for the backend added:
-
 ```markdown
 # ⚽ EPL Minutes Predictor – Fullstack Regression App
 
