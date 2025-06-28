@@ -1,0 +1,23 @@
+{
+    "player_name": "Harry Kane",
+    "club": "Tottenham Hotspur",
+    "nationality": "England",
+    "position": "FWD",
+    "appearances": 30,
+    "minutes": 2700,
+    "shots": 120,
+    "shots_on_target": 80,
+    "touches": 2000,
+    "passes": 1400,
+    "successful_passes": 1200,
+    "crosses": 50,
+    "successful_crosses": 20,
+    "carries": 400,
+    "progressive_carries": 180,
+    "tackles": 15,
+    "interceptions": 10,
+    "clearances": 5,
+    "conversion_rate": 28.5,
+    "pass_accuracy": 85.7,
+    "cross_accuracy": 40.0
+  }
