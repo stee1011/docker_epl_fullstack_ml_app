@@ -1,5 +1,4 @@
 
-```markdown
 # ⚽ EPL Minutes Predictor – Fullstack Regression App
 
 This is a simple but complete **fullstack machine learning application** that predicts the **total minutes played** by an English Premier League (EPL) player based on match stats using a regression model.
@@ -34,12 +33,12 @@ Useful for:
 
 ## 🧩 Tech Stack
 
-| Layer       | Tools Used                     |
-|-------------|---------------------------------|
-| **Frontend**  | Streamlit                     |
-| **Backend**   | FastAPI, Uvicorn, Docker     |
-| **Modeling**  | Scikit-learn (or similar)     |
-| **Auth**      | Bearer Token Auth             |
+| Layer       | Tools Used                 |
+|-------------|----------------------------|
+| **Frontend**  | Streamlit                 |
+| **Backend**   | FastAPI, Uvicorn, Docker  |
+| **Modeling**  | Scikit-learn (or similar) |
+| **Auth**      | Bearer Token Auth         |
 | **Comms**     | JSON over HTTPS (via `requests`) |
 
 ---
@@ -53,15 +52,12 @@ Useful for:
 
 ## 🚦 How It Works
 
-1. User opens the **Streamlit app**.
-2. Enters player data manually or pastes a full JSON dictionary.
-3. Provides the API endpoint and token.
-4. Streamlit sends a POST request to the **FastAPI backend**.
-5. FastAPI validates the token and data, runs the regression model, and returns the predicted minutes.
+1. User opens the **Streamlit app**.  
+2. Enters player data manually or pastes a full JSON dictionary.  
+3. Provides the API endpoint and token.  
+4. Streamlit sends a POST request to the **FastAPI backend**.  
+5. FastAPI validates the token and data, runs the regression model, and returns the predicted minutes.  
 6. Streamlit displays the result beautifully and clearly.
-
----
-
 
 ---
 
@@ -126,8 +122,5 @@ If you're hiring or collaborating, this is just one example of my practical AI e
 
 ## 📬 Contact
 
-* GitHub: [your-username](https://github.com/stee1011)
-
-
-```
+* GitHub: [username](https://github.com/stee1011)
 
